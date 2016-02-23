@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavaria00gravgoog/operavaria00gravgoog_0126.png"; bbox 0 0 1100 1448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 34 292 710 432">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 34 292 710 432">
+     <span class='ocr_line' id='line_1_1' title="bbox 34 292 459 351; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 34 292 38 351; x_wconf 78' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_2' title='bbox 273 305 459 332; x_wconf 79' lang='lat' dir='ltr'>-DE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 140 387 710 432; baseline 0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 140 387 710 432; x_wconf 87' lang='lat' dir='ltr'><strong>CIRCULI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 192 476 694 520">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 476 694 520">
+     <span class='ocr_line' id='line_1_3' title="bbox 192 476 694 520; baseline 0.002 -7"><span class='ocrx_word' id='word_1_4' title='bbox 192 486 258 513; x_wconf 84' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_5' title='bbox 293 476 694 520; x_wconf 59' lang='lat' dir='ltr'>HYPERBOLAEJ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 93 568 755 724">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 93 568 755 724">
+     <span class='ocr_line' id='line_1_4' title="bbox 93 568 755 633; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 93 568 755 633; x_wconf 88' lang='lat' dir='ltr'><strong>QUADRATURA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 131 683 704 724; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 131 683 704 724; x_wconf 84' lang='lat' dir='ltr'>CONTROVERSIA-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
